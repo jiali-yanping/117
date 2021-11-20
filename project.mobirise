@@ -927,7 +927,8 @@
       "settings": {
         "title": "補助計畫",
         "order": 2,
-        "meta_descr": ""
+        "meta_descr": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1265.jpeg"
       },
       "components": [
         {
@@ -1578,7 +1579,8 @@
     "page2.html": {
       "settings": {
         "title": "創新服務",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/benjamin-jopen-yvawqyyaova-unsplash-2000x3000.jpg"
       },
       "components": [
         {
@@ -2218,7 +2220,8 @@
     "page3.html": {
       "settings": {
         "title": "歷史背景",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg"
       },
       "components": [
         {
@@ -2858,7 +2861,8 @@
     "page4.html": {
       "settings": {
         "title": "特色名產",
-        "order": 4
+        "order": 4,
+        "meta_image": "@PROJECT_PATH@/assets/images/19092914-222788211562625-1548634160418675386-o.jpg"
       },
       "components": [
         {
@@ -3654,7 +3658,8 @@
     "page5.html": {
       "settings": {
         "title": "意見回饋",
-        "order": 6
+        "order": 6,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpeg"
       },
       "components": [
         {
@@ -4249,7 +4254,8 @@
     "page6.html": {
       "settings": {
         "title": "農村旅行",
-        "order": 5
+        "order": 5,
+        "meta_image": "@PROJECT_PATH@/assets/images/117892999-931991977308908-3518366732350414206-n-1-2000x1500.jpg"
       },
       "components": [
         {
