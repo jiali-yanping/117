@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "延平社區發展協會",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -71,13 +71,14 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "stf7arfs9o",
+    "mbrsiteDomain": "9ldcfmg2ix",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "witsec-white-label": false
   },
   "pages": {
     "index.html": {
@@ -5061,7 +5062,8 @@
     "page7.html": {
       "settings": {
         "title": "活動花絮",
-        "order": 6
+        "order": 6,
+        "meta_image": "@PROJECT_PATH@/assets/images/7910348-400x300.jpg"
       },
       "components": [
         {
@@ -8469,7 +8471,8 @@
     "page8.html": {
       "settings": {
         "title": "社區導覽",
-        "order": 5
+        "order": 5,
+        "meta_image": "@PROJECT_PATH@/assets/images/-1100x777.jpg"
       },
       "components": [
         {
